@@ -25,9 +25,9 @@ O microserviço oferece as seguintes funcionalidades através de uma API REST:
 
 1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   bash
+   git clone https://github.com/JoeGodoi/compass-challenge.git
+   cd https://github.com/JoeGodoi/compass-challenge.git
 
 2. Instale as dependências:
 
